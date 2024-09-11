@@ -51,7 +51,7 @@
     justify-content: center;
     background-color: #E85656;
     border-radius: 30px;
-    border-style: double;
+    border-style: dashed;
     /*border: 5px double white;*/
     border-color: white;
     padding: 1rem 4rem;
